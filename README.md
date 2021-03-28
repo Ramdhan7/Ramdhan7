@@ -7,7 +7,7 @@
 <img src="https://giffiles.alphacoders.com/120/120277.gif">
 </p>
 <p align="center">
-<i> <b> LOL ! </b> </i>
+<i> <b> HELLO GOBLOK ! </b> </i>
 </p
 
 #
