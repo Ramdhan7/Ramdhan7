@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"> Hello World :) </h1>
+<p align="center">
+•●•
+</p>
 
-<!--
-**Ramdhan7/Ramdhan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://giffiles.alphacoders.com/120/120277.gif">
+</p>
+<p align="center">
+<i> <b> LOL ! </b> </i>
+</p
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+### Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramdhan7&show_icons=true&theme=radical)<br>
+#
+### Social Media
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/Ramdhan.Ramadhian.ID)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-violet?style=for-the-badge&logo=instagram)](https://Instagram.com/ramdhan._ramadhian._99)
+[![Youtube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube)](https://m.youtube.com/channel/UC7kqla4Jh-ujwE6BKaUE_Rw)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6285220455740&text&app_absent=0/send/?chat=%Haloo)
+[![Telegram](https://img.shields.io/badge/telegram-Contact-cyan?style=for-the-badge&logo=telegram)](https://api.telegram.com/send/?phone=%2B6285220455740&text&app_absent=0/send/?chat=%Haloo)
