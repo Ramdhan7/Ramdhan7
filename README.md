@@ -21,7 +21,7 @@
 <a href="https://saweria.co/Ramdhan7"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="70" height="50"></a>
 
 * Donate me on  <a href="https://saweria.co/Ramdhan7">HERE</a>
-,let's donate or I will choke you but it's a lie, yahaha wahyu
+,Let's Donate or I will Choke You but it's a Lie, yahaha wahyu !
 #
 ### Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/Ramdhan.Ramadhian.ID)
