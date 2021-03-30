@@ -17,7 +17,7 @@
 <a href="https://saweria.co/Ramdhan7"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="70" height="50"></a>
 
 * Donate me on  <a href="https://saweria.co/Ramdhan7">HERE!</a>
-, or i will jump like nishimiya >:(
+,let's donate or I will choke you but it's a lie, yahaha wahyu
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ramdhan7&show_icons=true&theme=dark)
 <a href="https://github.com/Yayan-XD/dragoncrack"><img title="dragoncrack" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=dragoncrack&theme=vision-friendly-dark"></a>
