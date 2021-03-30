@@ -20,7 +20,7 @@
 ### Donate
 <a href="https://saweria.co/Ramdhan7"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="70" height="50"></a>
 
-* Donate me on  <a href="https://saweria.co/Ramdhan7">HERE!</a>
+* Donate me on  <a href="https://saweria.co/Ramdhan7">HERE</a>
 ,let's donate or I will choke you but it's a lie, yahaha wahyu
 #
 ### Social Media
