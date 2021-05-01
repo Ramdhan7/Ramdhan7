@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://giffiles.alphacoders.com/120/120278.gif">
+<img src="https://giffiles.alphacoders.com/120/120276.gif">
 </p>
 <p align="center">
 <i> <b> HELLO GOBLOK ! </b> </i>
