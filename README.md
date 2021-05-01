@@ -16,7 +16,6 @@
 <a href="https://github.com/Ramdhan7/dragoncrack"><img title="dragoncrack" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=dragoncrack&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/MBFIRE"><img title="hunter" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=MBFIRE&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/catch"><img title="catch" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=catch&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Ramdhan7/Blade"><img title="Blade" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=Blade&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/hunter"><img title="hunter" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=hunter&theme=vision-friendly-dark"></a>
 ### Donate
 <a href="https://saweria.co/Ramdhan7"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="70" height="50"></a>
