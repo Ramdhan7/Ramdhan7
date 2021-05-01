@@ -20,6 +20,7 @@
 <a href="https://github.com/Ramdhan7/hunter"><img title="hunter" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=hunter&theme=vision-friendly-dark"></a>
 ### Donate
 <a href="https://saweria.co/Ramdhan7"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="70" height="50"></a>
+<a href="https://saweria.co/Ramdhan7"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_ovo_purple.svg" alt="alt text" width="70" height="50"></a>
 
 * Donate me on  <a href="https://saweria.co/Ramdhan7">HERE</a>
 ,Let's Donate or I will Choke You but it's a Lie, yahaha wahyu !
