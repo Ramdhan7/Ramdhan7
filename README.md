@@ -9,7 +9,7 @@
 <p align="center">
 <i> <b> HELLO ANJENK ! </b> </i>
 </p
-
+#
 ### Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/105805581664563)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-violet?style=for-the-badge&logo=instagram)](https://Instagram.com/ramdhan.ramadhian99)
@@ -26,8 +26,7 @@
 <a href="https://github.com/Ramdhan7/Blade"><img title="Blade" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=Blade&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/classic"><img title="classic" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=classic&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/simbf"><img title="simbf" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=simbf&theme=vision-friendly-dark"></a>
-
+#
+<img src="https://github.com/Ramdhan7/Ramdhan7/blob/main/FB_IMG_16045381662777177.jpg" width="640" title="Menu" alt="Menu">
 #
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramdhan7&layout=compact" alt="Top language">
-
-<img src="https://github.com/Ramdhan7/Ramdhan7/blob/main/FB_IMG_16045381662777177.jpg" width="640" title="Menu" alt="Menu">
