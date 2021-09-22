@@ -23,7 +23,6 @@
 <a href="https://github.com/Ramdhan7/thie"><img title="thie" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=thie&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/catch"><img title="catch" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=catch&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/maniac"><img title="maniac" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=maniac&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Ramdhan7/Blade"><img title="Blade" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=Blade&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/classic"><img title="classic" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=classic&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/simbf"><img title="simbf" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=simbf&theme=vision-friendly-dark"></a>
 #
