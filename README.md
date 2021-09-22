@@ -20,11 +20,11 @@
 ### Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramdhan7&show_icons=true&theme=radical)<br>
 <a href="https://github.com/Ramdhan7/dragoncrack"><img title="dragoncrack" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=dragoncrack&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Ramdhan7/thie"><img title="thie" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=thie&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Ramdhan7/catch"><img title="catch" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=catch&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Ramdhan7/spammer"><img title="spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=thie&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Ramdhan7/small"><img title="small" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=catch&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/maniac"><img title="maniac" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=maniac&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Ramdhan7/classic"><img title="classic" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=classic&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Ramdhan7/simbf"><img title="simbf" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=simbf&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Ramdhan7/brutefire"><img title="brutefire" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=simbf&theme=vision-friendly-dark"></a>
 #
 <img src="https://github.com/Ramdhan7/Ramdhan7/blob/main/FB_IMG_16045381662777177.jpg" width="640" title="Menu" alt="Menu">
 
