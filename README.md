@@ -7,7 +7,7 @@
 <img src="https://giffiles.alphacoders.com/120/120277.gif">
 </p>
 <p align="center">
-<i> <b> HELLO ANJENK ! </b> </i>
+<i> <b> AKSES TELAH DITUTUP ! </b> </i>
 </p
 
 #
