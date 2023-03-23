@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://giffiles.alphacoders.com/120/120219.gif">
+<img src="https://giffiles.alphacoders.com/120/120269.gif">
 </p>
 <p align="center">
 <i> <b> AKSES TELAH DITUTUP ! </b> </i>
