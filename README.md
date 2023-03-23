@@ -7,7 +7,7 @@
 <img src="https://giffiles.alphacoders.com/120/120212.gif">
 </p>
 <p align="center">
-<i> <b> AKSES TELAH DITUTUP ! </b> </i>
+<i> <b> SEDANG BERHIBERNASI ! </b> </i>
 </p
 
 #
